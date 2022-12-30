@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 , I'm Anushna Panwar
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 📫 How to reach me: mail at anushna2002@gmail.com
+- 😄 Pronouns: She/Her
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushna9&theme=nightowl)
 
 <!--
 **anushna9/anushna9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
