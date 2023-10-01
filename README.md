@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushna Panwar</h1>
 <h3 align="center">I’m currently learning Data Structures and Algorithms.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushna9&label=Profile%20views&color=0e75b6&style=flat" alt="anushna9" /> </p>
-
 - 📫 How to reach me **mail at anushna2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
